@@ -71,8 +71,19 @@ p {
     margin: 0 auto;
 }
 
-.top-info{
-    display: inline-block;
+header{
+    display: space-evenly;
+    
+}
+
+header a{
+    display: space-evenly;
+    font-family: garamond;
+    text-decoration: none;
+    color: black;
+    font-style: bold;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .top-content {
     display: flex;
