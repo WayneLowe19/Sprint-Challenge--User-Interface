@@ -71,6 +71,9 @@ p {
     margin: 0 auto;
 }
 
+.top-info{
+    display: inline-block;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
